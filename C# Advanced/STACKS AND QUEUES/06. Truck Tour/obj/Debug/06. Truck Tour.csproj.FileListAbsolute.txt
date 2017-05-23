@@ -1,0 +1,5 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\06. Truck Tour\bin\Debug\_06.Truck_Tour.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\06. Truck Tour\bin\Debug\_06.Truck_Tour.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\06. Truck Tour\obj\Debug\_06.Truck_Tour.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\06. Truck Tour\obj\Debug\_06.Truck_Tour.pdb

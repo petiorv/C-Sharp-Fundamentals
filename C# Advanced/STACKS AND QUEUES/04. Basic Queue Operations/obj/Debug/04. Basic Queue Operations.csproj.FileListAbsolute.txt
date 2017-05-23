@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\04. Basic Queue Operations\bin\Debug\_04.Basic_Queue_Operations.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\04. Basic Queue Operations\obj\Debug\_04.Basic_Queue_Operations.pdb
+C:\Users\Petio\Documents\Visual Studio 2017\Projects\STACKS AND QUEUES\04. Basic Queue Operations\obj\Debug\04. Basic Queue Operations.csprojResolveAssemblyReference.cache

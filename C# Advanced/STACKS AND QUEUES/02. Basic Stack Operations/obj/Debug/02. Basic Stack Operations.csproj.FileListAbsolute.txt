@@ -1,0 +1,5 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.pdb

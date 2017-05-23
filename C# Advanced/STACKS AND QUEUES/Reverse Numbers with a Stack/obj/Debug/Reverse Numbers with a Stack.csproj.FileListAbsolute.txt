@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\Reverse Numbers with a Stack\bin\Debug\Reverse Numbers with a Stack.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\Reverse Numbers with a Stack\bin\Debug\Reverse Numbers with a Stack.exe
+c:\users\petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\Reverse Numbers with a Stack\bin\Debug\Reverse Numbers with a Stack.pdb
+c:\users\petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\Reverse Numbers with a Stack\obj\Debug\Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\Reverse Numbers with a Stack\obj\Debug\Reverse Numbers with a Stack.exe
+c:\users\petio\documents\visual studio 2017\Projects\STACKS AND QUEUES\Reverse Numbers with a Stack\obj\Debug\Reverse Numbers with a Stack.pdb
