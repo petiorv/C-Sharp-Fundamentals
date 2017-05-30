@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\02. SoftUni Party\bin\Debug\_02.SoftUni_Party.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\02. SoftUni Party\bin\Debug\_02.SoftUni_Party.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\02. SoftUni Party\bin\Debug\_02.SoftUni_Party.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\02. SoftUni Party\obj\Debug\02. SoftUni Party.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\02. SoftUni Party\obj\Debug\_02.SoftUni_Party.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\02. SoftUni Party\obj\Debug\_02.SoftUni_Party.pdb

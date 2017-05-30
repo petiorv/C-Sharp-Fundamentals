@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\04. Academy Graduation\bin\Debug\_04.Academy_Graduation.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\04. Academy Graduation\bin\Debug\_04.Academy_Graduation.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\04. Academy Graduation\bin\Debug\_04.Academy_Graduation.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\04. Academy Graduation\obj\Debug\04. Academy Graduation.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\04. Academy Graduation\obj\Debug\_04.Academy_Graduation.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries\04. Academy Graduation\obj\Debug\_04.Academy_Graduation.pdb
