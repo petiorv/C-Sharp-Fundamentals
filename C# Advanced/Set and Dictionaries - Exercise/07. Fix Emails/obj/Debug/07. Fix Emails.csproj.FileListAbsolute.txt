@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\07. Fix Emails\bin\Debug\_07.Fix_Emails.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\07. Fix Emails\obj\Debug\07. Fix Emails.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\07. Fix Emails\obj\Debug\_07.Fix_Emails.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\07. Fix Emails\obj\Debug\_07.Fix_Emails.pdb

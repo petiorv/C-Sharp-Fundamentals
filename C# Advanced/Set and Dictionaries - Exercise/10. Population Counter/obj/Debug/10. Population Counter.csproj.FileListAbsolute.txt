@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\10. Population Counter\bin\Debug\_10.Population_Counter.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\10. Population Counter\bin\Debug\_10.Population_Counter.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\10. Population Counter\bin\Debug\_10.Population_Counter.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\10. Population Counter\obj\Debug\10. Population Counter.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\10. Population Counter\obj\Debug\_10.Population_Counter.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\10. Population Counter\obj\Debug\_10.Population_Counter.pdb

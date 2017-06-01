@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.exe
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\03. Periodic Table\bin\Debug\_03.Periodic_Table.pdb
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\03. Periodic Table\obj\Debug\03. Periodic Table.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.exe
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\03. Periodic Table\obj\Debug\_03.Periodic_Table.pdb

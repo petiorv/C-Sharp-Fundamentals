@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.exe
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\04. Count Symbols\bin\Debug\_04.Count_Symbols.pdb
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.exe
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\04. Count Symbols\obj\Debug\_04.Count_Symbols.pdb
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\04. Count Symbols\obj\Debug\04. Count Symbols.csprojResolveAssemblyReference.cache

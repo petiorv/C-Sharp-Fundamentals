@@ -1,0 +1,5 @@
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\05. Phonebook\bin\Debug\_05.Phonebook.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\05. Phonebook\bin\Debug\_05.Phonebook.exe
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\05. Phonebook\bin\Debug\_05.Phonebook.pdb
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\05. Phonebook\obj\Debug\_05.Phonebook.exe
+c:\users\petio\documents\visual studio 2017\Projects\SetsAndDictionaries - Exercise\05. Phonebook\obj\Debug\_05.Phonebook.pdb
