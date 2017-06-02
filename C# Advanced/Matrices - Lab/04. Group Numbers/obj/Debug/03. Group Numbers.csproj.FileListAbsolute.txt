@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\04. Group Numbers\bin\Debug\_04.Group_Numbers.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\04. Group Numbers\bin\Debug\_04.Group_Numbers.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\04. Group Numbers\bin\Debug\_04.Group_Numbers.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\04. Group Numbers\obj\Debug\03. Group Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\04. Group Numbers\obj\Debug\_04.Group_Numbers.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\04. Group Numbers\obj\Debug\_04.Group_Numbers.pdb

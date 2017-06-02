@@ -1,0 +1,6 @@
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\SumOfMaxSubMatrix\bin\Debug\SumOfMaxSubMatrix.exe.config
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\SumOfMaxSubMatrix\bin\Debug\SumOfMaxSubMatrix.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\SumOfMaxSubMatrix\bin\Debug\SumOfMaxSubMatrix.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\SumOfMaxSubMatrix\obj\Debug\SumOfMaxSubMatrix.exe
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\SumOfMaxSubMatrix\obj\Debug\SumOfMaxSubMatrix.pdb
+C:\Users\Petio\documents\visual studio 2017\Projects\Matrices - Lab\SumOfMaxSubMatrix\obj\Debug\SumOfMaxSubMatrix.csprojResolveAssemblyReference.cache
