@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\Matrices - Exercise\02. Diagonal Diff\bin\Debug\_02.Diagonal_Diff.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\Matrices - Exercise\02. Diagonal Diff\bin\Debug\_02.Diagonal_Diff.exe
+c:\users\petio\documents\visual studio 2017\Projects\Matrices - Exercise\02. Diagonal Diff\bin\Debug\_02.Diagonal_Diff.pdb
+c:\users\petio\documents\visual studio 2017\Projects\Matrices - Exercise\02. Diagonal Diff\obj\Debug\02. Diagonal Diff.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\Matrices - Exercise\02. Diagonal Diff\obj\Debug\_02.Diagonal_Diff.exe
+c:\users\petio\documents\visual studio 2017\Projects\Matrices - Exercise\02. Diagonal Diff\obj\Debug\_02.Diagonal_Diff.pdb
