@@ -1,0 +1,5 @@
+c:\users\petio\documents\visual studio 2017\Projects\Streams and Files\04. Copy Binnary File\bin\Debug\_04.Copy_Binnary_File.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\Streams and Files\04. Copy Binnary File\bin\Debug\_04.Copy_Binnary_File.exe
+c:\users\petio\documents\visual studio 2017\Projects\Streams and Files\04. Copy Binnary File\bin\Debug\_04.Copy_Binnary_File.pdb
+c:\users\petio\documents\visual studio 2017\Projects\Streams and Files\04. Copy Binnary File\obj\Debug\_04.Copy_Binnary_File.exe
+c:\users\petio\documents\visual studio 2017\Projects\Streams and Files\04. Copy Binnary File\obj\Debug\_04.Copy_Binnary_File.pdb
