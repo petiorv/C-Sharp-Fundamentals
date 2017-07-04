@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.pdb
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.exe
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.pdb

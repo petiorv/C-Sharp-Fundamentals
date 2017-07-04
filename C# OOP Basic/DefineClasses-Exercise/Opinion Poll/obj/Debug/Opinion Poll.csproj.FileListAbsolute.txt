@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Opinion Poll\obj\Debug\Opinion Poll.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Opinion Poll\bin\Debug\Opinion Poll.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Opinion Poll\bin\Debug\Opinion Poll.exe
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Opinion Poll\bin\Debug\Opinion Poll.pdb
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Opinion Poll\obj\Debug\Opinion Poll.exe
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Opinion Poll\obj\Debug\Opinion Poll.pdb

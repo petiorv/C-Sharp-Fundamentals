@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\bin\Debug\Person.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\bin\Debug\Person.exe
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\bin\Debug\Person.pdb
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\obj\Debug\Person.exe
+c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\obj\Debug\Person.pdb
