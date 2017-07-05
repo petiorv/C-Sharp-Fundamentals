@@ -1,0 +1,6 @@
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.pdb
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.exe
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.pdb
