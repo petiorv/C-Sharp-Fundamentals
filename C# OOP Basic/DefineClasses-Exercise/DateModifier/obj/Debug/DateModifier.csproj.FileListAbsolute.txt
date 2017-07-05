@@ -4,3 +4,9 @@ c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Date
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\DateModifier\obj\Debug\DateModifier.csprojResolveAssemblyReference.cache
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\DateModifier\obj\Debug\DateModifier.exe
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\DateModifier\obj\Debug\DateModifier.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\DateModifier\bin\Debug\DateModifier.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\DateModifier\bin\Debug\DateModifier.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\DateModifier\bin\Debug\DateModifier.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\DateModifier\obj\Debug\DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\DateModifier\obj\Debug\DateModifier.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\DateModifier\obj\Debug\DateModifier.pdb

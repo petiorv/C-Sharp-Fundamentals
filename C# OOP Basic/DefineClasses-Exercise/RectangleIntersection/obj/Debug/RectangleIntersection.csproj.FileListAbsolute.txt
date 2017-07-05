@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RectangleIntersection\obj\Debug\RectangleIntersection.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RectangleIntersection\bin\Debug\RectangleIntersection.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RectangleIntersection\bin\Debug\RectangleIntersection.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RectangleIntersection\bin\Debug\RectangleIntersection.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RectangleIntersection\obj\Debug\RectangleIntersection.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RectangleIntersection\obj\Debug\RectangleIntersection.pdb

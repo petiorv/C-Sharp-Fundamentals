@@ -4,3 +4,9 @@ C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\Comp
 C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\CompanyRoaster\bin\Debug\CompanyRoaster.pdb
 C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\CompanyRoaster\obj\Debug\CompanyRoaster.exe
 C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\CompanyRoaster\obj\Debug\CompanyRoaster.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\CompanyRoaster\bin\Debug\CompanyRoaster.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\CompanyRoaster\bin\Debug\CompanyRoaster.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\CompanyRoaster\bin\Debug\CompanyRoaster.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\CompanyRoaster\obj\Debug\CompanyRoaster.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\CompanyRoaster\obj\Debug\CompanyRoaster.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\CompanyRoaster\obj\Debug\CompanyRoaster.pdb

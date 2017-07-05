@@ -4,3 +4,9 @@ c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Olde
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.csprojResolveAssemblyReference.cache
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.exe
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\OldestFamilyMember\bin\Debug\OldestFamilyMember.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\OldestFamilyMember\obj\Debug\OldestFamilyMember.pdb

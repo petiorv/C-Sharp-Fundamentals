@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationLab\SortPersonByNameAndAge\bin\Debug\SortPersonByNameAndAge.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationLab\SortPersonByNameAndAge\bin\Debug\SortPersonByNameAndAge.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationLab\SortPersonByNameAndAge\bin\Debug\SortPersonByNameAndAge.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationLab\SortPersonByNameAndAge\obj\Debug\SortPersonByNameAndAge.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationLab\SortPersonByNameAndAge\obj\Debug\SortPersonByNameAndAge.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationLab\SortPersonByNameAndAge\obj\Debug\SortPersonByNameAndAge.pdb

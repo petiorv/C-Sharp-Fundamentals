@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RawData\bin\Debug\RawData.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RawData\bin\Debug\RawData.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RawData\bin\Debug\RawData.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RawData\obj\Debug\RawData.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RawData\obj\Debug\RawData.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\RawData\obj\Debug\RawData.pdb

@@ -13,7 +13,7 @@ namespace RawData
         public Cargo Cargo { get; set; }
         public List<Tyre> Tyres { get; set; }
 
-        Car(string model, Engine engine, Cargo cargo, List<Tyre> tyres)
+        public Car(string model, Engine engine, Cargo cargo, List<Tyre> tyres)
         {
             this.Model = model;
             this.Engine = engine;

@@ -8,9 +8,7 @@ namespace RawData
 {
     public class Tyre
     {
-        private double tyrePresure;
-        private int tyreAge;
-
+       
         public double TyrePresure { get; set; }
         public int TyreAge { get; set; }
 

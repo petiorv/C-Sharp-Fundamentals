@@ -4,3 +4,9 @@ C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\Spee
 C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
 C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\SpeedRacing\obj\Debug\SpeedRacing.exe
 C:\Users\Petio\Documents\Visual Studio 2017\Projects\DefineClasses-Exercise\SpeedRacing\obj\Debug\SpeedRacing.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\SpeedRacing\bin\Debug\SpeedRacing.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\SpeedRacing\bin\Debug\SpeedRacing.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\SpeedRacing\obj\Debug\SpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\SpeedRacing\obj\Debug\SpeedRacing.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\SpeedRacing\obj\Debug\SpeedRacing.pdb

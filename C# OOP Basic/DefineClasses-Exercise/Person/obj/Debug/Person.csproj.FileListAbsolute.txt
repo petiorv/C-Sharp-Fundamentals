@@ -4,3 +4,9 @@ c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Pers
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\bin\Debug\Person.pdb
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\obj\Debug\Person.exe
 c:\users\petio\documents\visual studio 2017\Projects\DefineClasses-Exercise\Person\obj\Debug\Person.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\Person\bin\Debug\Person.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\Person\bin\Debug\Person.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\Person\bin\Debug\Person.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\Person\obj\Debug\Person.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\DefineClasses-Exercise\Person\obj\Debug\Person.pdb
