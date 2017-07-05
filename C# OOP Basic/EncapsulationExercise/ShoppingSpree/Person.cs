@@ -7,8 +7,7 @@
     {
         private string name;
         private decimal money;
-
-        public List<Product> Bag { get; set; }
+        private List<Product> bag;
 
         public string Name
         {
@@ -20,12 +19,12 @@
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Name cannot be empty");
+                    throw new ArgumentException($"{nameof(Name)} cannot be empty");
                 }
                 this.name = value;
             }
         }
-        
+
         public decimal Money
         {
             get
@@ -36,7 +35,7 @@
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Money cannot be negative");
+                    throw new ArgumentException($"{nameof(Money)} cannot be negative");
                 }
                 this.money = value;
             }
@@ -46,20 +45,23 @@
         {
             this.Name = name;
             this.Money = money;
-            this.Bag = new List<Product>();
+            this.bag = new List<Product>();
         }
 
         public void BuyProduct(Product prod)
         {
-            if (this.money >= prod.Coast)
+            if (this.Money < prod.Price)
             {
-                this.money -= prod.Coast;
-                this.Bag.Add(prod);
+                throw new InvalidOperationException($"{this.name} can't afford {prod.Name}");
             }
-            else
-            {
-                throw new ArgumentException($"{this.name} can't afford {prod.Name}");
-            }
+            this.bag.Add(prod);
+            this.Money -= prod.Price;
         }
+
+        public IList<Product> GetProducts()
+        {
+            return this.bag.AsReadOnly();
+        }
+       
     }
 }

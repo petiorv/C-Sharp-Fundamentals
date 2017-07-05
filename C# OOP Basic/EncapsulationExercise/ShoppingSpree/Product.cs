@@ -9,7 +9,7 @@ namespace ShoppingSpree
     class Product
     {
         private string name;
-        private decimal coast;
+        private decimal price;
 
         public string Name
         {
@@ -26,11 +26,11 @@ namespace ShoppingSpree
                 this.name = value;
             }
         }
-        public decimal Coast
+        public decimal Price
         {
             get
             {
-                return this.coast;
+                return this.price;
             }
             set
             {
@@ -38,14 +38,14 @@ namespace ShoppingSpree
                 {
                     throw new ArgumentException("Money cannot be negative");
                 }
-                this.coast = value;
+                this.price = value;
             }
         }
 
         public Product(string name, decimal coast)
         {
             this.Name = name;
-            this.Coast = coast;
+            this.Price = coast;
         }
     }
 }
