@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ShoppingSpree\obj\Debug\ShoppingSpree.pdb
+=======
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ShoppingSpree\obj\Debug\ShoppingSpree.pdb
+>>>>>>> origin/master

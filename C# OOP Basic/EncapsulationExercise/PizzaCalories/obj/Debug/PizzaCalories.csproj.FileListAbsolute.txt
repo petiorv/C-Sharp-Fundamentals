@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\PizzaCalories\obj\Debug\PizzaCalories.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\PizzaCalories\bin\Debug\PizzaCalories.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\PizzaCalories\bin\Debug\PizzaCalories.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\PizzaCalories\bin\Debug\PizzaCalories.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\PizzaCalories\obj\Debug\PizzaCalories.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\PizzaCalories\obj\Debug\PizzaCalories.pdb

@@ -1,0 +1,21 @@
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe.config
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.pdb
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.csprojResolveAssemblyReference.cache
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.exe
+c:\users\petio\documents\visual studio 2017\Projects\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.pdb
+<<<<<<< HEAD
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ClassbOX\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.pdb
+=======
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ClassbOX\bin\Debug\ClassbOX.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ClassbOX\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\EncapsulationExercise\ClassbOX\obj\Debug\ClassbOX.pdb
+>>>>>>> origin/master
