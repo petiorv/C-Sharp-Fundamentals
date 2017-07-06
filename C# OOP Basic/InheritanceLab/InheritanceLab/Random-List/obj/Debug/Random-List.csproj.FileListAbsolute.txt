@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\Random-List\bin\Debug\Random-List.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\Random-List\bin\Debug\Random-List.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\Random-List\bin\Debug\Random-List.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\Random-List\obj\Debug\Random-List.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\Random-List\obj\Debug\Random-List.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\Random-List\obj\Debug\Random-List.pdb

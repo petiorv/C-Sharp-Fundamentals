@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\SingleInheritance\bin\Debug\SingleInheritance.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\SingleInheritance\bin\Debug\SingleInheritance.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\SingleInheritance\bin\Debug\SingleInheritance.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\SingleInheritance\obj\Debug\SingleInheritance.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\SingleInheritance\obj\Debug\SingleInheritance.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\SingleInheritance\obj\Debug\SingleInheritance.pdb

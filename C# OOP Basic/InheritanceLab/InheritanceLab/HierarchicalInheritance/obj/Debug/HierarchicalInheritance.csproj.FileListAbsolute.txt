@@ -1,0 +1,5 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.pdb

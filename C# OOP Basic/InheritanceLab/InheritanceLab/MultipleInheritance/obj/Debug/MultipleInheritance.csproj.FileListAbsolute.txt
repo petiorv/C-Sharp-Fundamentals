@@ -1,0 +1,5 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceLab\MultipleInheritance\obj\Debug\MultipleInheritance.pdb
