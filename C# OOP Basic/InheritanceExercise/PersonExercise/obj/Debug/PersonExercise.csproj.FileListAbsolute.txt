@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceExercise\PersonExercise\bin\Debug\PersonExercise.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceExercise\PersonExercise\bin\Debug\PersonExercise.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceExercise\PersonExercise\bin\Debug\PersonExercise.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceExercise\PersonExercise\obj\Debug\PersonExercise.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceExercise\PersonExercise\obj\Debug\PersonExercise.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceLab\InheritanceExercise\PersonExercise\obj\Debug\PersonExercise.pdb

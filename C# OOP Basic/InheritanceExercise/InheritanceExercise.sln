@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonExercise", "PersonExercise\PersonExercise.csproj", "{38EA7345-1A30-4957-974E-F026570305CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShopExercise", "BookShopExercise\BookShopExercise.csproj", "{3A002195-3D26-49BD-B4CF-2C6DD1310AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManKindExercise", "ManKindExercise\ManKindExercise.csproj", "{AA33424B-786E-4E94-8765-EDC88097C512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38EA7345-1A30-4957-974E-F026570305CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EA7345-1A30-4957-974E-F026570305CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EA7345-1A30-4957-974E-F026570305CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EA7345-1A30-4957-974E-F026570305CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A002195-3D26-49BD-B4CF-2C6DD1310AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A002195-3D26-49BD-B4CF-2C6DD1310AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A002195-3D26-49BD-B4CF-2C6DD1310AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A002195-3D26-49BD-B4CF-2C6DD1310AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA33424B-786E-4E94-8765-EDC88097C512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA33424B-786E-4E94-8765-EDC88097C512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA33424B-786E-4E94-8765-EDC88097C512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA33424B-786E-4E94-8765-EDC88097C512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
