@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\InheritanceExercise\ManKindExercise\bin\Debug\ManKindExercise.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\InheritanceExercise\ManKindExercise\bin\Debug\ManKindExercise.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\InheritanceExercise\ManKindExercise\bin\Debug\ManKindExercise.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\InheritanceExercise\ManKindExercise\obj\Debug\ManKindExercise.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\InheritanceExercise\ManKindExercise\obj\Debug\ManKindExercise.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals-master\C# OOP Basic\InheritanceExercise\ManKindExercise\obj\Debug\ManKindExercise.pdb

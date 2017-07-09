@@ -4,16 +4,16 @@ using System.Text;
 public class Worker : Human
 {
     private decimal weekSalary;
-    private double workHoursPerDay;
-    private decimal salaryPerHour;
+    private decimal workHoursPerDay;
     
-    public Worker(string firstName, string lastName, decimal weekSalary, double hours) 
+    public Worker(string firstName, string lastName, decimal weekSalary, decimal hours) 
         : base (firstName, lastName)
     {
         this.WeekSalary = weekSalary;
+        this.WorkHoursPerDay = hours;
+        
+        
     }
-
-    public 
 
     public decimal WeekSalary
     {
@@ -30,7 +30,7 @@ public class Worker : Human
             this.weekSalary = value;
         }
     }
-    public double WorkHoursPerDay
+    public decimal WorkHoursPerDay
     {
         get
         {
@@ -48,13 +48,14 @@ public class Worker : Human
 
     public override string ToString()
     {
-        var result = new StringBuilder();
-        result.AppendLine($"First Name: {this.FirstName}");
-        result.AppendLine($"Last Name: {this.LastName}");
-        result.AppendLine($"Week Salary: {this.WeekSalary}");
-        result.AppendLine($"Hours per day: {this.WorkHoursPerDay}");
-        result.AppendLine($"Salary per hour: {this.s}");
-        return "";
+        StringBuilder sb = new StringBuilder();
+        sb.Append(base.ToString());
+        sb.AppendLine($"Week Salary: {this.WeekSalary:F2}");
+        sb.AppendLine($"Hours per day: {this.workHoursPerDay:F2}");
+
+        decimal salaryPerHour = this.WeekSalary / (this.WorkHoursPerDay * 5);
+        sb.Append($"Salary per hour: {salaryPerHour:F2}");
+        return sb.ToString();
     }
 }
 

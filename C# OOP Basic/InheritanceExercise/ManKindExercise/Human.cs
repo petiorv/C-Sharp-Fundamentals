@@ -7,6 +7,8 @@ public class Human
 
     public Human(string firstName, string lastName)
     {
+        this.FirstName = firstName;
+        this.LastName = lastName;
 
     }
 
@@ -45,6 +47,7 @@ public class Human
             {
                 throw new ArgumentException("Expected length at least 3 symbols! Argument: lastName ");
             }
+            this.lastName = value;
         }
     }
 }
