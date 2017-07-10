@@ -2,32 +2,49 @@
 
 public class Gandalf
 {
-    public int Happines { get; set; }
+    private string gandalfMood;
+    private int happines;
 
     public void AddFood(string food)
     {
         food = food.ToLower();
         switch (food)
         {
-            case "cram": Happines += 2;
+            case "cram":
+                happines += 2;
                 break;
-            case "lembas": Happines += 3;
+            case "lembas":
+                happines += 3;
                 break;
-            case "apple": Happines += 1;
+            case "apple":
+                happines += 1;
                 break;
             case "melon":
-                Happines += 1;
+                happines += 1;
                 break;
             case "honeycake":
-                Happines += 1;
+                happines += 5;
                 break;
             case "mushrooms":
-                Happines -= 10;
+                happines -= 10;
                 break;
-            default: Happines -= 1;
+            default:
+                happines -= 1;
                 break;
         }
     }
+
+    public void Mood(int happines)
+    {
+        this.gandalfMood = "kurec";
+    }
+
+    public override string ToString()
+    {
+        return $"{this.happines} {this.gandalfMood}";
+    }
+
+
 
 }
 
