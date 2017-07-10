@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb
