@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 public class Human
 {
@@ -24,7 +25,7 @@ public class Human
             {
                 throw new ArgumentException("Expected upper case letter! Argument: firstName");
             }
-            if (value.Length < 3)
+            if (value.Length < 4)
             {
                 throw new ArgumentException("Expected length at least 4 symbols! Argument: firstName");
             }
@@ -43,12 +44,21 @@ public class Human
             {
                 throw new ArgumentException("Expected upper case letter! Argument: lastName");
             }
-            if (value.Length < 2)
+            if (value.Length < 3)
             {
                 throw new ArgumentException("Expected length at least 3 symbols! Argument: lastName ");
             }
             this.lastName = value;
         }
     }
+
+    public override string ToString()
+    {
+        StringBuilder sb = new StringBuilder();
+        sb.AppendLine($"First Name: {this.FirstName}");
+        sb.AppendLine($"Last Name: {this.LastName}");
+        return sb.ToString();
+    }
+
 }
 

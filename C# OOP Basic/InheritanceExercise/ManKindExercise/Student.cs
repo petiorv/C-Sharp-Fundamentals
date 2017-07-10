@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Text.RegularExpressions;
 
 public class Student : Human
 {
@@ -19,7 +20,7 @@ public class Student : Human
         }
         set
         {
-            if (value.Length < 5 || value.Length > 10)
+            if (value.Length < 5 || value.Length > 10 || !Regex.IsMatch(value, @"[a-zA-Z0-9]{5,10}"))
             {
                 throw new ArgumentException("Invalid faculty number!");
             }
@@ -29,10 +30,9 @@ public class Student : Human
 
     public override string ToString()
     {
-        var result = new StringBuilder();
-        result.AppendLine($"Fist Name: {this.FirstName}");
-        result.AppendLine($"Last Name: {this.LastName}");
-        result.AppendLine($"Faculty Number: {this.FacultyNum}");
-        return result.ToString();
+        StringBuilder sb = new StringBuilder();
+        sb.Append(base.ToString());
+        sb.AppendLine($"Faculty number: {this.FacultyNum}");
+        return sb.ToString();
     }
 }

@@ -23,7 +23,7 @@ public class Worker : Human
         }
         set
         {
-            if (value < 10)
+            if (value <= 10)
             {
                 throw new ArgumentException("Expected value mismatch! Argument: weekSalary");
             }
@@ -51,7 +51,7 @@ public class Worker : Human
         StringBuilder sb = new StringBuilder();
         sb.Append(base.ToString());
         sb.AppendLine($"Week Salary: {this.WeekSalary:F2}");
-        sb.AppendLine($"Hours per day: {this.workHoursPerDay:F2}");
+        sb.AppendLine($"Hours per day: {this.WorkHoursPerDay:F2}");
 
         decimal salaryPerHour = this.WeekSalary / (this.WorkHoursPerDay * 5);
         sb.Append($"Salary per hour: {salaryPerHour:F2}");
