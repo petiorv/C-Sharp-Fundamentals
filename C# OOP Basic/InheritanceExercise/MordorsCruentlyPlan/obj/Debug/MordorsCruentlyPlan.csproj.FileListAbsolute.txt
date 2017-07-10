@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\MordorsCruentlyPlan\bin\Debug\MordorsCruentlyPlan.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\MordorsCruentlyPlan\bin\Debug\MordorsCruentlyPlan.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\MordorsCruentlyPlan\bin\Debug\MordorsCruentlyPlan.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\MordorsCruentlyPlan\obj\Debug\MordorsCruentlyPlan.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\MordorsCruentlyPlan\obj\Debug\MordorsCruentlyPlan.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\InheritanceExercise\MordorsCruentlyPlan\obj\Debug\MordorsCruentlyPlan.pdb
