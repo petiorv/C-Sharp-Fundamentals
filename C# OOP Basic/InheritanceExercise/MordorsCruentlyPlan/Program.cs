@@ -6,15 +6,18 @@ public class Program
     static void Main(string[] args)
     {
         Gandalf gandalf = new Gandalf();
-
+        var foodFactory = new FoodFactory();
         var input = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
-        foreach (var food in input)
+        foreach (var f in input)
         {
-            gandalf.AddFood(food);
+            var food = foodFactory.CreateFood(f);
+            gandalf.Eat(food);
+
         }
 
-        gandalf.Mood(1);
-        Console.WriteLine(gandalf);
+        MoodFactory mood = new MoodFactory();
+        Console.WriteLine(gandalf.TotalPoints);
+        Console.WriteLine(mood.CreateMood(gandalf.TotalPoints).Name);
     }
 }
 

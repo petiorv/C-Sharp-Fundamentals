@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3888A12B-95D2-4463-8A21-C37976305E38}</ProjectGuid>
+    <ProjectGuid>{CD0B047F-EBAC-4343-805B-D4E3340A241C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MordorsCruentlyPlan</RootNamespace>
-    <AssemblyName>MordorsCruentlyPlan</AssemblyName>
+    <RootNamespace>Animals</RootNamespace>
+    <AssemblyName>Animals</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,13 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Food.cs" />
-    <Compile Include="FoodFactory.cs" />
-    <Compile Include="Gandalf.cs" />
-    <Compile Include="Mood.cs" />
-    <Compile Include="MoodFactory.cs" />
+    <Compile Include="Animal.cs" />
+    <Compile Include="Cat.cs" />
+    <Compile Include="Dog.cs" />
+    <Compile Include="Frog.cs" />
+    <Compile Include="Kittens.cs" />
+    <Compile Include="ProducedSound.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tomcat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
