@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\AnimalsEx\bin\Debug\AnimalsEx.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\AnimalsEx\bin\Debug\AnimalsEx.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\AnimalsEx\bin\Debug\AnimalsEx.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\AnimalsEx\obj\Debug\AnimalsEx.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\AnimalsEx\obj\Debug\AnimalsEx.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\AnimalsEx\obj\Debug\AnimalsEx.pdb

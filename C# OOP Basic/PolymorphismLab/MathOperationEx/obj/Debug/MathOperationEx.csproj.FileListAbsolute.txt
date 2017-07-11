@@ -1,0 +1,6 @@
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\MathOperationEx\bin\Debug\MathOperationEx.exe.config
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\MathOperationEx\bin\Debug\MathOperationEx.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\MathOperationEx\bin\Debug\MathOperationEx.pdb
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\MathOperationEx\obj\Debug\MathOperationEx.csprojResolveAssemblyReference.cache
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\MathOperationEx\obj\Debug\MathOperationEx.exe
+C:\Users\Petio\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Basic\PolymorphismLab\MathOperationEx\obj\Debug\MathOperationEx.pdb
