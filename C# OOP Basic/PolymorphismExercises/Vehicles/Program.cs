@@ -19,6 +19,7 @@ public class Program
                 string toDo = input[0];
                 string type = input[1];
                 double km = double.Parse(input[2]);
+                double tankCapacity = double.Parse(input[3]);
 
                 if (toDo.ToLower() == "refuel")
                 {

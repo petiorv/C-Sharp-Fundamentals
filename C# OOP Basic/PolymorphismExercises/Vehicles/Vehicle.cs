@@ -13,7 +13,20 @@ public abstract class Vehicle
     }
 
     public double TankCapacity
-    { get; set; }
+    {
+        get
+        {
+            return this.tankCapacity;
+        }
+        set
+        {
+            if (value < 0)
+            {
+                throw new ArgumentException("Fuel must be a positive number");
+            }
+            this.tankCapacity = value;
+        }
+    }
 
     public virtual double FuelQuantity
     {
@@ -25,7 +38,7 @@ public abstract class Vehicle
         {
             if (value < 0)
             {
-                throw new ArgumentException("Fuel must be more than 0");
+                throw new ArgumentException("Fuel must be a positive number");
             }
             this.fuelQuantity = value;
         }
@@ -66,6 +79,10 @@ public abstract class Vehicle
 
     public void Refuel(double fuel)
     {
+        if (fuel > this.TankCapacity)
+        {
+            throw new ArgumentException("Cannot fit fuel in tank");
+        }
         this.FuelQuantity += fuel;
     }
 }
