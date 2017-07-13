@@ -12,6 +12,14 @@ public abstract class Vehicle
         this.FuelConsumptionPerKm = fuelConsumptionPerKm;
     }
 
+    public Vehicle(double fuelQuantity, double fuelConsumptionPerKm, double tankCapacity)
+    {
+        this.FuelQuantity = fuelQuantity;
+        this.FuelConsumptionPerKm = fuelConsumptionPerKm;
+        this.TankCapacity = tankCapacity;
+
+    }
+
     public double TankCapacity
     {
         get
@@ -60,7 +68,7 @@ public abstract class Vehicle
         }
     }
 
-    public string Drive(double km)
+    public virtual string Drive(double km)
     {
         double currentQuantity = FuelQuantity;
         currentQuantity -= km * this.FuelConsumptionPerKm;
@@ -77,11 +85,33 @@ public abstract class Vehicle
         return result;
     }
 
-    public void Refuel(double fuel)
+    public string DriveEmpty(double km)
+    {
+        double currentQuantity = FuelQuantity;
+        currentQuantity -= km * (this.FuelConsumptionPerKm - 1.4);
+        string result;
+        if (currentQuantity > 0 && currentQuantity < fuelQuantity)
+        {
+            result = $"{this.GetType().Name} travelled {km} km";
+            FuelQuantity = currentQuantity;
+        }
+        else
+        {
+            result = $"{this.GetType().Name} needs refueling";
+        }
+        return result;
+
+    }
+
+    public virtual void Refuel(double fuel)
     {
         if (fuel > this.TankCapacity)
         {
             throw new ArgumentException("Cannot fit fuel in tank");
+        }
+        if (fuel <= 0)
+        {
+            throw new ArgumentException("Fuel must be a positive number");
         }
         this.FuelQuantity += fuel;
     }

@@ -7,5 +7,11 @@
     {
 
     }
+
+    public Car(double fuelQuatity, double fuelConsumptioPerKm, double tankCapacity)
+      : base(fuelQuatity, fuelConsumptioPerKm + acOn, tankCapacity)
+    {
+
+    }
 }
 

@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Vehicles
+﻿public class Bus : Vehicle
 {
-    class Bus
+    private const double acOn = 1.4;
+    public Bus(double fuelQuantity, double fuelConsumptionPerKm, double tankCapacity)
+        : base(fuelQuantity, fuelConsumptionPerKm+acOn, tankCapacity)
     {
-    }
+
+    }     
 }
