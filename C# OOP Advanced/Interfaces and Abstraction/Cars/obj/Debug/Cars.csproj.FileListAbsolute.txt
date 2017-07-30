@@ -1,0 +1,6 @@
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Cars\bin\Debug\Cars.exe.config
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Cars\bin\Debug\Cars.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Cars\bin\Debug\Cars.pdb
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Cars\obj\Debug\Cars.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Cars\obj\Debug\Cars.pdb

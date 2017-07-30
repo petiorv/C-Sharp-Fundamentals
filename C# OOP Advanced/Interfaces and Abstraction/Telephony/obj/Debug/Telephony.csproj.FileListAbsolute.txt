@@ -1,0 +1,6 @@
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Telephony\bin\Debug\Telephony.exe.config
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Telephony\bin\Debug\Telephony.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Telephony\bin\Debug\Telephony.pdb
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Telephony\obj\Debug\Telephony.csprojResolveAssemblyReference.cache
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Telephony\obj\Debug\Telephony.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Telephony\obj\Debug\Telephony.pdb

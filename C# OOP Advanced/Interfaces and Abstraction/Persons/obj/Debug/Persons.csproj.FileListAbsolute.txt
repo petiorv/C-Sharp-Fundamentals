@@ -1,0 +1,6 @@
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Persons\bin\Debug\Persons.exe.config
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Persons\bin\Debug\Persons.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Persons\bin\Debug\Persons.pdb
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Persons\obj\Debug\Persons.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\Interfaces and Abstraction\Persons\obj\Debug\Persons.pdb

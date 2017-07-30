@@ -1,0 +1,5 @@
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\GenericBoxOfString.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\GenericBoxOfString.pdb
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\GenericBoxOfString.csprojResolveAssemblyReference.cache
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\GenericBoxOfString.exe
+C:\Users\petio ssd\Documents\GitHub\C-Sharp-Fundamentals\C# OOP Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\GenericBoxOfString.pdb
